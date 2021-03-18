@@ -5,8 +5,9 @@
 🌱 I’m currently learning HTML, CSS, Tailwind CSS , Sass, Bootstrap , JavaScript, jQuery, Wordpress, Git , React and Firebase
 
 ## Skills and Experience
-
-HTML / CSS / JS / Tailwind CSS / Sass /Bootstrap / JavaScript / jQuery /WordPress / Git  /React  / Firebase
+* 💻 HTML / CSS / JS / Tailwind CSS / Sass /Bootstrap / JavaScript / jQuery /WordPress / Firebase
+* ⚛️ ReactJs
+* :octocat Git
 
 - 🔭 I’m currently working on this page. 
 
