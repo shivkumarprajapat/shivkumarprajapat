@@ -1,15 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Shiv Kumar Prajapat
+#### Front End developer
+![Front End developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hello , I am Shiv Kumar Prajapat
-I'm an aspiring Front End developer and passionate about learning new technologies 
+🌱 I’m currently learning HTML, CSS, Tailwind CSS , Sass, Bootstrap , JavaScript, jQuery, Wordpress, Git , React and Firebase
 
 
-🌱 I’m currently learning HTML, CSS, Tailwind CSS , Sass,  Bootstrap , JavaScript, jQuery, Wordpress, Git , React and Firebase
 
-❤️ You can reach me out at my mail id shivkumarprajapat28@gmail.com
-❤️ You can reach me out at my linkedin id https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7/
-❤️ You can reach me out at my facebook id https://www.facebook.com/shivaji.prajapat.1
+Skills: HTML / CSS / JS / Tailwind CSS / Sass /Bootstrap / JavaScript / jQuery /WordPress / Git  /React  / Firebase
 
-⚡ Fun fact My choice is Coffee 
+- 🔭 I’m currently working on this page. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivkumarprajapat)](https://github.com/shivkumarprajapat/github-readme-stats)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shivkumarprajapat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/shivaji.prajapat.1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/prajapatshivaji//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ShivKum41461746)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/shivkumarprajapat-the-sans)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/https://codesandbox.io/u/shivkumarprajapat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/14809384/shiv-kumar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/shivkumarprajapat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](https://www.w3schools.com/css/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](https://www.w3schools.com/html/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg' alt='react' height='40'>](https://reactjs.org/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reactrouter.svg' alt='reactrouter' height='40'>](https://reactrouter.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/bootstrap.svg' alt='bootstrap' height='40'>](https://getbootstrap.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tailwindcss.svg' alt='tailwindcss' height='40'>](https://tailwindcss.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/jquery.svg' alt='jquery' height='40'>](https://jquery.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](https://www.w3schools.com/js/DEFAULT.asp)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firebase.svg' alt='firebase' height='40'>](https://firebase.google.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/material-ui.svg' alt='material-ui' height='40'>](https://material-ui.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg' alt='wordpress' height='40'>](https://wordpress.org/)  
+
