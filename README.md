@@ -6,7 +6,7 @@
 
 ## Skills and Experience
 
-Skills: HTML / CSS / JS / Tailwind CSS / Sass /Bootstrap / JavaScript / jQuery /WordPress / Git  /React  / Firebase
+HTML / CSS / JS / Tailwind CSS / Sass /Bootstrap / JavaScript / jQuery /WordPress / Git  /React  / Firebase
 
 - 🔭 I’m currently working on this page. 
 
