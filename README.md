@@ -1,6 +1,6 @@
 ### Hi there 👋, Shiv Kumar Prajapat
 #### Front End developer
-![Front End developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Front End developer](https://www.trickyenough.com/wp-content/uploads/2020/08/development-scaled.jpg)
 
 🌱 I’m currently learning HTML, CSS, Tailwind CSS , Sass, Bootstrap , JavaScript, jQuery, Wordpress, Git , React and Firebase
 
