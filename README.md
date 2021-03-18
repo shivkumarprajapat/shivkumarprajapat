@@ -5,9 +5,9 @@
 🌱 I’m currently learning HTML, CSS, Tailwind CSS , Sass, Bootstrap , JavaScript, jQuery, Wordpress, Git , React and Firebase
 
 ## Skills and Experience
-* ic
 
 Skills: HTML / CSS / JS / Tailwind CSS / Sass /Bootstrap / JavaScript / jQuery /WordPress / Git  /React  / Firebase
 
 - 🔭 I’m currently working on this page. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivkumarprajapat)](https://github.com/shivkumarprajapat/github-readme-stats)
