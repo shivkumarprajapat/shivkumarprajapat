@@ -1,7 +1,8 @@
 ### Hi there 👋, Shiv Kumar Prajapat
 #### Front End developer
-![Front End developer](https://www.trickyenough.com/wp-content/uploads/2020/08/development-scaled.jpg)
 
+/*![Front End developer](https://www.trickyenough.com/wp-content/uploads/2020/08/development-scaled.jpg)
+*/
 🌱 I am Shiv Kumar Prajapat Front End Developer an undergraduate student 
 
 Skilled in 
