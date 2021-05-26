@@ -9,14 +9,18 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 
 <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/7d/f2/6f/7df26fa959d20fa16bf8223205cd949b.gif">
 
+👨‍💻 You can also check out my portfolio at [https://shivkumarprajapat.github.io/](https://shivkumarprajapat.github.io/)
+
+📫 How to reach me **shivkumarprajapat28@gmail.com**
+
+<!-- - ⚡ Fun fact **I think I am funny XD** -->
 ### Connect with me:
 
-<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<a href="https://linkedin.com" target="blank"><img align="left" alt="Shiv | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
+<img align="left" alt="Shiv Kumar" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+<a href="https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shiv Kumar" width="35" /></a>
+<a href="https://twitter.com/" target="blank"><img align="left" alt="Shiv Kumar | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+<a href="https://www.facebook.com/shivaji.prajapat.1" target="blank"><img align="left" alt="Shiv Kumar | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
+<a href="https://www.instagram.com/prajapatshivaji/" target="blank"><img align="left" alt="Shiv Kumar | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 <br />
 
 ### Languages and Tools:
