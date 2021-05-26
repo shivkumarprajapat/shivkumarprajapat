@@ -16,8 +16,8 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 <!-- - ⚡ Fun fact **I think I am funny XD** -->
 ### Connect with me:
 
-<img align="left" alt="Shiv Kumar" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<a href="https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shiv Kumar" width="35" /></a>
+<!-- <a href="#" target="blank"><img align="left" alt="Shiv Kumar" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> -->
+<a href="https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shiv Kumar" width="35" /></a>
 <a href="https://twitter.com/" target="blank"><img align="left" alt="Shiv Kumar | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.facebook.com/shivaji.prajapat.1" target="blank"><img align="left" alt="Shiv Kumar | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
 <a href="https://www.instagram.com/prajapatshivaji/" target="blank"><img align="left" alt="Shiv Kumar | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
