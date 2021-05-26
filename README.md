@@ -42,5 +42,5 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 
 
  🔭 I’m currently working on this page. 
-
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivkumarprajapat)](https://github.com/shivkumarprajapat/github-readme-stats)
