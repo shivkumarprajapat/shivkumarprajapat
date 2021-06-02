@@ -9,7 +9,7 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 
 <img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/7d/f2/6f/7df26fa959d20fa16bf8223205cd949b.gif">
 
-👨‍💻 You can also check out my portfolio at [https://shivkumarprajapat.github.io/](https://shivkumarprajapat.github.io/)
+👨‍💻 You can also check out my portfolio at [my portfolio](https://shivkumarprajapat.github.io/)
 
 📫 How to reach me **shivkumarprajapat28@gmail.com**
 
@@ -17,10 +17,10 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 ### Connect with me:
 
 <!-- <a href="#" target="blank"><img align="left" alt="Shiv Kumar" width="35px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> -->
-<a href="https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shiv Kumar" width="35" /></a>
-<a href="https://twitter.com/" target="blank"><img align="left" alt="Shiv Kumar | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://www.facebook.com/shivaji.prajapat.1" target="blank"><img align="left" alt="Shiv Kumar | Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.instagram.com/prajapatshivaji/" target="blank"><img align="left" alt="Shiv Kumar | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://www.linkedin.com/in/shivkumar-prajapat-b32b3b1b7/" target="blank"><img align="left" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Shiv Kumar" width="35" /></a>
+<a href="https://twitter.com/" target="blank"><img align="left" alt="Shiv Kumar | Twitter" width="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" /></a>
+<a href="https://www.facebook.com/shivaji.prajapat.1" target="blank"><img align="left" alt="Shiv Kumar | Facebook" width="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" /></a>
+<a href="https://www.instagram.com/prajapatshivaji/" target="blank"><img align="left" alt="Shiv Kumar | Instagram" width="35px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" /></a>
 <br />
 
 ### Languages and Tools:
