@@ -37,6 +37,7 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>  
 <a href="https://www.w3schools.com/js/default.asp" target="_blank"><img alt="Sass" width="45px" height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /></a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+<a href="https://material-ui.com/" target="_blank"> <img  width="40" height="40" src="https://cdn.svgporn.com/logos/material-ui.svg"></a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img alt="Gatsby" width="45" height="45" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /></a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
 <a href="https://github.com/" target="_blank"> <img alt="GitHub"  width="45" height="45" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
