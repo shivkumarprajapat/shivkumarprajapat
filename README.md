@@ -58,10 +58,17 @@ and Digital marketing. Currently, Pursuing BCA from Jaipur National University. 
 
 
 ### Project Link:
-https://appland-landing.herokuapp.com/
-https://shivkumarprajapat.github.io/react_website1/
-https://shivkumarprajapat.github.io/wedding/
-https://react-restaurant-website.vercel.app/
-https://shivkumarprajapat.github.io/wedding1/
-https://disney-clone-d1e27.web.app/
-https://shivkumarprajapat.github.io/photography.github.io/
+
+HTML Project Link <br/>
+
+https://shivkumarprajapat.github.io/wedding/<br />
+https://shivkumarprajapat.github.io/wedding1/<br />
+https://shivkumarprajapat.github.io/photography.github.io/<br />
+
+  
+React Project Link <br/>
+
+https://appland-landing.herokuapp.com/<br />
+https://shivkumarprajapat.github.io/react_website1/<br />
+https://react-restaurant-website.vercel.app/<br />
+https://disney-clone-d1e27.web.app/<br />
