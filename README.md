@@ -1,5 +1,5 @@
 Hi there, I'm Shiv Kumar Prajapat 👋
-#### SoftWare developer
+#### Software developer
 
 ## I'm a React Developer and Javascript Enthusiast!
 
